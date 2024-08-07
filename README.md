@@ -4,7 +4,7 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
 
 ## Sesiones
 
-- [ ] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Entornos 3D y Processing |
+- [ ] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Entornos 3D y Processing | [Código](https://gist.github.com/EmilioOcelotl/65ccdd8617f94157c3e804cb0566f599) |
 
 ## Recursos
 
@@ -12,3 +12,4 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
 - Processing y [P3D](https://processing.org/tutorials/p3d)
 - [PeasyCam](https://mrfeinberg.com/peasycam/)
 - [Fundamentos](https://threejs.org/manual/#en/fundamentals)
+- [OBJExport](https://n-e-r-v-o-u-s.com/tools/obj/)
