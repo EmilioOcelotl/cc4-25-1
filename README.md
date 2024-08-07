@@ -4,7 +4,7 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
 
 ## Sesiones
 
-- [ ] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Entornos 3D y Processing | [Código](https://gist.github.com/EmilioOcelotl/65ccdd8617f94157c3e804cb0566f599) |
+- [ ] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Entornos 3D y Processing | Código |
 
 ## Recursos
 
