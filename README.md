@@ -7,8 +7,8 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
 - [x] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Entornos 3D y Processing | [Código](https://gist.github.com/EmilioOcelotl/65ccdd8617f94157c3e804cb0566f599) |
 - [x] | [Sesión 2 - 14.08.24](./sesiones/s02.md) | PeasyCam, controlP5, objExport y 3D | 
 - [x] | [Sesión 3 - 21.08.24](./sesiones/s03.md) | Primer mesh | [Código Inicial](https://gist.github.com/EmilioOcelotl/792802292be2d412902f9b514fbf47b9) | [Código Final](https://gist.github.com/EmilioOcelotl/35218f701f72b6060a3dd8d44cca56c4)
-- [x] | [Sesión 4 - 04.09.24](./sesiones/s04/s04.md) | Mesh y esfera | [Código Inicial](https://gist.github.com/EmilioOcelotl/2d4b7ab46a03388d9c52a4543a825107)
-- [ ] | [Sesión 5 - 11.09.24](./sesiones/s05/s05.md) | Esfera con textura, noise (si da tiempo, audioreactiva) | 
+- [x] | [Sesión 4 y 5 - 04.09.24](./sesiones/s04/s04.md) | Mesh y esfera | [Código Inicial](https://gist.github.com/EmilioOcelotl/2d4b7ab46a03388d9c52a4543a825107)
+- [ ] | [Sesión 6 - 11.09.24](./sesiones/s05/s05.md) | Esfera con textura, noise (si da tiempo, audioreactiva) | 
 
 ## Recursos
 
