@@ -14,11 +14,15 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
     - [Código Inicial](https://gist.github.com/EmilioOcelotl/2d4b7ab46a03388d9c52a4543a825107)
 - [x] [Sesión 6 - 11.09.24](./sesiones/s05/s05.md) Esfera con textura, noise (si da tiempo, audioreactiva)
     - [Código](https://gist.github.com/EmilioOcelotl/eca01feb28e3120730f482b2b13d876e)
-- [ ] [Sesión 7 - 18.09.24](./sesiones/s07/s07.md)  Esfera con todo lo anterior y audioreactividad 
+- [x] [Sesión 7 - 18.09.24](./sesiones/s07/s07.md)  Esfera con todo lo anterior y audioreactividad 
     - [Código](./sesiones/s07/esferaAudioreactiva.pde)
+- [ ] [Sesión 8 - 25.09.24](./sesiones/s08/s08.md) Textura con hydra y p5 
+    - [Enlace](https://hydra.ojack.xyz/) a Hydra
+    - [enlace](https://editor.p5js.org/emilioocelotl/sketches/JhoYDrQLJ) a proyecto de p5js
 
 ## Recursos
 
+- [Hydra](https://hydra.ojack.xyz/)
 - [Sound / Processing](https://processing.org/tutorials/sound/)
 - Para descargar [Processing](https://processing.org/download)
 - Processing y [P3D](https://processing.org/tutorials/p3d)
