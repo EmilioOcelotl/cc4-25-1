@@ -1,7 +1,7 @@
 // Capas > cálculo > render > Interfaz gráfica 
 
 import peasy.*; // cámara 
-import nervoussystem.obj.*; // exportar en obj 
+// import nervoussystem.obj.*; // exportar en obj 
 import controlP5.*; // importar librería p5
 
 ControlP5 cp5; // declarar el objeto > programación orientada a objetos 
@@ -48,9 +48,11 @@ void draw() { // 60 fps 44100 m/s
 
   // noFill();
   // vertices();
+  /*
   if (record) {
     beginRecord("nervoussystem.obj.OBJExport", "filename.obj");
   }
+  */
 
   //offset += 5;
   vert();
@@ -62,10 +64,12 @@ void draw() { // 60 fps 44100 m/s
   figura(); // dibujar el mesh
   pop(); 
 
+  /*
   if (record) {
     endRecord();
     record = false;
   }
+  */
 
   offset = offset + 2; 
   //mchange = mchange + 0.02; // 0, 0.02, 0.04, 0.06...inf
