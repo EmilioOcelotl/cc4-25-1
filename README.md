@@ -20,9 +20,15 @@ Programación computacional para construir y diseñar modelos 3D de espacios par
     - [Enlace](https://hydra.ojack.xyz/) a Hydra
     - [enlace](https://editor.p5js.org/emilioocelotl/sketches/JhoYDrQLJ) a proyecto de p5js
 - [x] [Sesión 9 - 23.10.24](./sesiones/s09/s09.md) Ruta de trabajo para entrega final
-- [ ] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md)
+- [x] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md)
     - [Supershape en Processing](./sesiones/s10/supershape.pde)
     - [Supershape en p5js](https://editor.p5js.org/emilioocelotl/sketches/qp2HHO3yY)
+- [x] [Sesión 11 - 06.11.24](./sesiones/s11/s11.md) Modificación de parámetros y escritura en archivo JSON
+    - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/ye9x3_V6z)
+- [x] Sesión 12 - 13.11.24. Retroalimentación en Hydra. 
+    - [Modulaciones y retroalimentación en Hydra](https://hydra.ojack.xyz/api/#functions/modulate/0)
+- [x] Sesión 13 - Actividad final. Hydra y figuras construidas con ecuaciones paramétricas 
+    - [Enlace actividad final](https://editor.p5js.org/emilioocelotl/sketches/jfedz-prW)
 
 
 ## Recursos
